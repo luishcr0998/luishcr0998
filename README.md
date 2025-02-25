@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-success?style=flat&logo=firefox)](https://luisheitorcam.wixsite.com/port)
-[![Repos](https://img.shields.io/github/followers/seu-usuario?label=Follow%20me&style=social)](https://github.com/luishcr0998?tab=repositories)
+
 
 ---
 ## 💡 Sobre mim
