@@ -53,11 +53,11 @@ Anteriormente, atuei como **Engenheiro Civil** por cinco anos, o que me proporci
 
 - **Bibliotecas de Data Science**:  
   - 📊 Pandas, NumPy, Scikit-learn  
-  - 🔥 PyTorch  
+  - 🔥 PyTorch, XGBoost, Optuna
   - 🤖 LangChain (IA multi-agents)
 
 - **Bancos de Dados**:  
-  - 💾 MySQL, Excel
+  - 💾 MySQL, PostgreSQL
 
 - **Visualização**:  
   - 📈 Matplotlib, Seaborn, Plotly  
